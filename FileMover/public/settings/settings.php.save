@@ -1,0 +1,6 @@
+<?php
+$config = (object)array(
+	//'path' => '/home/dennis/UG/',
+	'path'=>'
+	'destination'=>'/home/dennis/done/',
+);
